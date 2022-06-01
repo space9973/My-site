@@ -1,0 +1,120 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #FFEEEE;
+}
+h1{
+  /* width: 40px; */
+  margin:0 auto 0 auto;
+  padding: 200px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 60px;
+  font-weight: 900;
+  position: relative;
+  left: 86px;
+  bottom: 122px;
+  top: -100px;
+  color: #66BFBF;
+}
+h2{
+  color:  #66BFBF;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 900;
+}
+h3{
+  color:#66BFBF;
+  font-family: 'PT Sans', sans-serif;
+
+}
+.font{
+  font-family: 'PT Serif', serif;
+}
+p{
+  position:relative;
+  font-size:20px ;
+  left: 33px;
+  bottom:324px;
+  color:  #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+.bottom-cloud{
+  position: absolute;
+  right: 1000px;
+  bottom: 318px;
+  padding-top: 20px;
+}
+.top-cloud{
+  position: absolute;
+  top: 80px;
+  right: 171px;
+}
+.mountain{
+  position: absolute;
+  bottom: 92px;
+  right: 427px;
+}
+.pro{
+  text-decoration: underline;
+}
+p{
+  font-family: 'Tiro Kannada', serif;
+  font-size: 2.5rem;
+  position: relative;
+  left: 82px;
+  bottom: 303px;
+}
+.skill-image{
+  width: 10px;
+}
+.middle-container{
+  background-color: #FFEEEE;
+}
+.profile{
+  width: 30px;
+  margin-left: 491px;
+  margin-top: 180px;
+}
+.middle-container .profile img{
+  border-radius:  100px;
+  border: 5px solid #79DAE8;
+  background-color: #15133C;
+  width: 200px;
+  margin-left: 180px;
+}
+.skills{
+  background-color: #FFEEEE;
+}
+.skills .skills-image img{
+  border-radius:  100px;
+  border: 5px solid #79DAE8;
+  background-color: #15133C;
+  width: 200px;
+  margin-left: 40px;
+}
+/* .skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: center;
+} */
+ /* .top-container{
+  background-color: #E9D5CA;
+}
+.middle-container{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+
+}
+.bottom-container{
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+}
+.pro{
+  text-decoration: underline;
+}
